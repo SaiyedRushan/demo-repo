@@ -1,4 +1,4 @@
-# Demo 2
+# Demo
 
 Some text for you
 
